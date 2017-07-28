@@ -1,5 +1,8 @@
 # govhack2017
 
+## Google Docs
+https://docs.google.com/document/d/1AQdw4pQSkhbAgoFMzEIJkXi0snFQGml3Ctnv4QHOsTs/edit?usp=sharing
+
 ## General notes
 - Keep on asking for help: there are mentors coaches, crew and other Hackers who can help
 - Aim to lock down the concept by midday Saturday
